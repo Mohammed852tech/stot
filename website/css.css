@@ -1,0 +1,34 @@
+         
+           h1 {
+                color: #0031ff;
+                font-family: 'Impact';
+            }
+            #div{
+                border: 2px solid black;
+                border-radius: 10px;
+                width: 500px;
+                height: 250px;
+                left:300px;
+                top: 150px;
+                position:relative;
+                background-color: aqua;
+            }
+            div a button{
+                width: 200px;
+                height: 50px;
+                background-color: green;
+            }
+            div a button:hover{
+                background-color: #c7ffff;
+            }
+            #grand {
+                margin-left: 50px;
+                margin-right: 50px;
+                font-size: 20pt;
+            }
+            #img {
+                width: 500px;
+                height: 500px;
+                left: 80px;
+                position: relative;
+            }
